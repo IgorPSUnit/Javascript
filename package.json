@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorPSUnit/Javascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IgorPSUnit/Javascript/issues"
+  },
+  "homepage": "https://github.com/IgorPSUnit/Javascript#readme"
 }
